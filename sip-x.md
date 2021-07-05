@@ -1,58 +1,72 @@
 ---
 sip: <to be assigned>
-title: <SIP title>
+title: Ambassador DAO Mandate
 status: Draft
-author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
-discussions-to: <Create a new thread on https://research.synthetix.io and drop the link here> 
+author: MiLLiΞ, Andy, Afif
+discussions-to: https://research.synthetix.io 
+created: July/05/2021
 
-created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
-requires (*optional): <SIP number(s)>
 ---
 
 <!--You can leave these HTML comments in your merged SIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new SIPs. Note that an SIP number will be assigned by an editor. When opening a pull request to submit your SIP, please use an abbreviated title in the filename, `sip-draft_title_abbrev.md`. The title should be 44 characters or less.-->
 
-This is the suggested template for new SIPs. Note that an SIP number will be assigned by an editor. When opening a pull request to submit your SIP, please use an abbreviated title in the filename, `sip-draft_title_abbrev.md`. The title should be 44 characters or less.
 
 ## Simple Summary
 <!--"If you can't explain it simply, you don't understand it well enough." Simply describe the outcome the proposed changes intends to achieve. This should be non-technical and accessible to a casual community member.-->
-"If you can't explain it simply, you don't understand it well enough." Simply describe the outcome the proposed change intends to achieve. This should be non-technical and accessible to a casual community member.
 
+The purpose of this SIP is to create a written mandate for the Synthetix Ambassadors, which reflects the interests of SNX holders’ and may be a standard for future Ambassadors to build upon.
+  
 ## Abstract
 <!--A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the SIP is implemented, not *why* it should be done or *how* it will be done. If the SIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".-->
-A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the SIP is implemented, not *why* it should be done or *how* it will be done. If the SIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".
-
+In this proposal we outline the ambassador DAO’s responsibilities and the scope of the aDAO’s authority to act on behalf of SNX holders’ in regards to any community delegated voting power, and other meta governance matters which may concern the Synthetix community.
+  
 ## Motivation
 <!--This is the problem statement. This is the *why* of the SIP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the SIP proposes changing how something is calculated, you must address *why* the current calculation is innaccurate or wrong. This is not the place to describe how the SIP will address the issue!-->
-This is the problem statement. This is the *why* of the SIP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the SIP proposes changing how something is calculated, you must address *why* the current calculation is innaccurate or wrong. This is not the place to describe how the SIP will address the issue!
+The aDAO is now on its second epoch and though many initiatives have already been launched through  the Ambassador program, there is no written description of the role that ambassadors play in the synthtetix ecosystem and thus, creates a lack of transparency. This SIP aims to shed light on how the aDAO will contribute to Synthetix as well as set clear guidelines on the motivation and scope of our actions when it comes to ecosystem governance matters.
 
 ## Specification
-<!--The specification should describe the syntax and semantics of any new feature, there are five sections
-1. Overview
-2. Rationale
-3. Technical Specification
-4. Test Cases
-5. Configurable Values
--->
+Ecosystem Governance
 
-### Overview
-<!--This is a high level overview of *how* the SIP will solve the problem. The overview should clearly describe how the new feature will be implemented.-->
-This is a high level overview of *how* the SIP will solve the problem. The overview should clearly describe how the new feature will be implemented.
+- Promote the interests of Synthetix in the Ethereum ecosystem
+- Vote/advocate in favour of governance proposals which are in the interests of SNX holders
+- Vote/advocate against proposals which may adversely affect Synthetix
+- Seek governance power in protocols which may be beneficial for Synthetix to have influence in 
+- Maintain transparency in all meta-governance initiatives that the ambassador’s are directly/indirectly involved with or endorse.
+- Stay up to date on relevant DeFi governance matters and their broader implications
+
+
+Collaborations 
+
+- Work with the various Synthetix DAOs to achieve goals aligned with the Ambassador Mandate
+- Improve upon and strengthen Synthetix relationships in the defi ecosystem
+- Promote the use of Synthetix based products in other dApps, where it benefits SNX
+- Co-ordinate with external DAOs in relation to defi governance matters and initiatives which fall under the mandate
+- Maintain channels of communications with other DAOs and ecosystem contributors
+
+
+Community
+
+- Seek out contributors from the ecosystem
+- Encourage and elevate talent from the Synthetix community
+- Be conscious of and open to the Synthetix DAOs/community’s opinions and suggestions on defi governance matters
+- Stay reasonably accessible to the Synthetix community through synthetix’s official channels of communication (Discord/ forums) and through Twitter
+
 
 ### Rationale
 <!--This is where you explain the reasoning behind how you propose to solve the problem. Why did you propose to implement the change in this way, what were the considerations and trade-offs. The rationale fleshes out what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.-->
-This is where you explain the reasoning behind how you propose to solve the problem. Why did you propose to implement the change in this way, what were the considerations and trade-offs. The rationale fleshes out what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.
+The idea behind this SIP is to create a transparent governance structure for SNX Ambassadors, which serves as a framework for any contributor interested in joining the aDAO. Ambassadors are charged with pursuing governance influence in the defi ecosystem and this mandate aims to empower that mission with clear guidance. The Ambassadors are the closest DAO to the broader community and should maintain the most transparency of the synthetix DAOs since ambassadors directly represent the votes of SNX holders and community delegates in governance matters. As ambassadors we must maintain open lines of communication with the community in order to ensure that our ambitions continue to align with this SIP’s specifications. 
+
 
 ### Technical Specification
 <!--The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces Synthetix currently exposes or the creations of new ones.-->
-The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces Synthetix currently exposes or the creations of new ones. 
+N/A
 
 ### Test Cases
 <!--Test cases for an implementation are mandatory for SIPs but can be included with the implementation..-->
-Test cases for an implementation are mandatory for SIPs but can be included with the implementation.
-
+N/A
 ### Configurable Values (Via SCCP)
 <!--Please list all values configurable via SCCP under this implementation.-->
-Please list all values configurable via SCCP under this implementation.
+Number of ambassadors serving on the DAO per epoch
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
